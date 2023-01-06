@@ -1,8 +1,7 @@
 Click on this link to visit website => https://movieteria.netlify.app
 
-<------------------------------------------ MOVIETERIA ----------------------------------------->
+<------------------------------------------ MOVIEMAZE ----------------------------------------->
 
-Created by : Shaikh Mohd Ovais Kadri
 
 Project Description : -> Created a website where users can search for any movie or show. They can see details like overview, cast, rating, runtime, link to trailer, etc. There is a 'Trending' section which displays movie and shows that are trending globally. Section called 'Genre' is added, where users can select multiple genre and search for movie or show matching with those genre.
 
