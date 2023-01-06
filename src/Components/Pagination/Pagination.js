@@ -20,9 +20,11 @@ const Pagination = (props) => {
       <ul className="pagination">
         {pageNumbers.map((number) => {
           if(number === 1) {
-            return(<li key={number} onClick={changePage} className='activePage'>
-              {number}
-            </li>)
+            return(
+              <li key={number} onClick={changePage} className='activePage'>
+                {number}
+              </li>
+            )
           }
           return (
             <li key={number} onClick={changePage}>
