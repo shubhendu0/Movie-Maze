@@ -3,7 +3,9 @@ Click on this link to visit website => https://unrivaled-stardust-adb855.netlify
 # MOVIEMAZE!
 
 
-## Preview [Screenshot (62)](https://user-images.githubusercontent.com/82198522/211017803-45568b6a-e9f0-47b1-b230-08853e9b968c.png)
+## Preview 
+![Screenshot (62)](https://user-images.githubusercontent.com/82198522/211018006-86edfffd-803c-406a-befc-548afa2f3788.png)
+
 
 
 ## Project Description  
